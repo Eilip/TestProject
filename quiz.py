@@ -217,6 +217,7 @@ answer = (data['answer'])
 
 # create an object of the Quiz Class.
 quiz = Quiz()
+print("hello")
 
 # Start the GUI
 root.mainloop()
